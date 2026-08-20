@@ -3,6 +3,15 @@
 A Python desktop application that helps assign tasks to employees based on their skills, available capacity, workload, and task priority.
 
 The application provides an interactive dashboard where users can manage employees and tasks, run the optimization algorithm, and view workload and assignment results.
+## Application Preview
+
+### Employee Workload Dashboard
+
+![Employee Workload Dashboard](screenshots/dashboard.png)
+
+### Task Assignments
+
+![Task Assignments](screenshots/task_assignments.png)
 
 ## Features
 
